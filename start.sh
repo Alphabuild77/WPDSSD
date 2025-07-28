@@ -18,7 +18,6 @@ pip install fastapi uvicorn ebooklib beautifulsoup4 playwright
 
 echo ""
 echo "🌐 Instalando navegador para Playwright (Chromium headless)..."
-playwright install
 
 echo ""
 echo "🚀 Iniciando servidor en http://127.0.0.1:8000"
